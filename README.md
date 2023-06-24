@@ -5,8 +5,12 @@
 
 # Olá, seja bem vindo ao meu github!
 
-Meu nome é Erika, sou graduada em engenharia civil, desenvolvedora java jr com experiência em banco de dados, SQL, HTML, CSS, Javascript e Bootstrap.
-Cursando o 4º semestre em análise e desenvolvimento de sistemas pela FATEC - BAIXADA SANTISTA.  
+Meu nome é Erika, sou graduada em engenharia civil, desenvolvedora web java jr com experiência em banco de dados, SQL, HTML, CSS, Javascript e Bootstrap.
+Cursando o 4º semestre em análise e desenvolvimento de sistemas pela FATEC - BAIXADA SANTISTA.
+
+Sou uma iniciante e entusiasmada pela plataforma Pega - low-code.
+
+
 Aqui compartilho meus conhecimentos de desenvolvimento web.
 
 
