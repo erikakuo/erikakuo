@@ -5,8 +5,9 @@
 
 # Olá, seja bem vindo ao meu github!
 
-Meu nome é Erika, sou graduada em engenharia civil, desenvolvedora java jr com experiência em banco de dados, SQL, HTML, CSS, Javascript e Bootstrap.  
-Seja muito bem vindo ao meu git, onde compartilho meus conhecimentos de desenvolvimento web.
+Meu nome é Erika, sou graduada em engenharia civil, desenvolvedora java jr com experiência em banco de dados, SQL, HTML, CSS, Javascript e Bootstrap e cursando 
+análise e desenvolvimento de sistemas pela FATEC - BAIXADA SANTISTA.  
+Aqui compartilho meus conhecimentos de desenvolvimento web.
 
 
 
