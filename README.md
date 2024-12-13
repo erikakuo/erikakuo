@@ -5,7 +5,7 @@
 
 # Olá, seja bem vindo ao meu github!
 
-Meu nome é Erika
+Meu nome é Erika, um pouco de estudos, um pouco de desafios e aos poucos vou aprendendo.
 
 
 
